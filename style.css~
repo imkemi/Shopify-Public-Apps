@@ -1,9 +1,0 @@
-.colllomxis{
-text-align:center; border:1px solid grey;margin-top:50px;
-}
-.colllom12{
-text-align:center; border:1px solid grey;margin-top:150px;
-}
-.col-md-12.colllomxis12q {
-    border: 1px solid grey;
-}
